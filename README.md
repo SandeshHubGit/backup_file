@@ -44,11 +44,11 @@
 
 ## Troubleshooting
   1. Error: Source directory does not exist
-       Verify the correct source path.
+       1. Verify the correct source path.
   2. Error: Permission denied
-       Run with sudo if necessary or check file permissions.
+       1. Run with sudo if necessary or check file permissions.
   3. Error: Could not copy file
-       Check available disk space and file locks.
+       1. Check available disk space and file locks.
 
 ## Contribution Guidelines
 
