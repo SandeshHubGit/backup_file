@@ -26,13 +26,6 @@
   Run the script with the source and destination directories as arguments:
     ``` python backup.py <source_directory> <destination_directory> ```
 
-## Example:
-
-  ``` python backup.py /home/user/documents /home/user/backup ```
-
-  Copies files from /home/user/documents to /home/user/backup.
-  If a directory is copied, it appends a timestamp to its name.
-
 ## Configuration
   1. Modify the script to include logging or additional error handling as needed.
   2. Adjust the timestamp format if required.
@@ -57,3 +50,13 @@
 3. Create a feature branch.
 4. Commit changes and push to your fork.
 5. Submit a pull request.
+
+## Example:
+
+  ``` python backup.py /home/user/documents /home/user/backup ```
+
+  1. Copies files from /home/user/documents to /home/user/backup.
+  2. If a directory is copied, it appends a timestamp to its name.
+
+![image](https://github.com/user-attachments/assets/b5b8194b-1ac4-4a51-bda5-25102a804361)
+
